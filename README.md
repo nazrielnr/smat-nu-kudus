@@ -19,7 +19,8 @@ Aplikasi monitoring aset wakaf dan tanah Nahdlatul Ulama Kabupaten Kudus: pencat
 - Persetujuan berjenjang: pemeriksa tidak dapat menyetujui transaksi yang ia buat sendiri.
 - Akuntansi otomatis (jurnal Dr/Cr per jenis transaksi), buku besar, neraca saldo, dan jurnal pembalik.
 - Posting idempotent dan atomik (D1 batch).
-- Laporan: posisi keuangan, aset wakaf, aktivitas, arus kas, dan catatan.
+- Laporan: posisi keuangan, aset wakaf, aktivitas, arus kas, kertas kerja, aset terkelola, dan catatan.
+- Pengaturan nama organisasi (kop cetak/PDF).
 - Aset wakaf: data aset, riwayat, unggah dokumen (R2).
 - Manajemen pengguna berbasis role (`admin`, `bendahara`, `pengelola_aset`, `pemeriksa`, `pimpinan`) dan audit log.
 

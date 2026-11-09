@@ -1,6 +1,6 @@
-# SIKW-BWI Kudus — Backend
+# SMAT NU Kudus — Backend
 
-Sistem Informasi Keuangan Wakaf BWI Kabupaten Kudus (SIKW-BWI Kudus) — Backend API.
+Sistem Monitoring Aset Wakaf dan Tanah NU Kabupaten Kudus (SMAT NU Kudus) — Backend API.
 
 **Stack**: Hono + Cloudflare Workers + D1 (SQLite) + R2, TypeScript strict, Zod validation, Vitest.
 
@@ -14,8 +14,7 @@ backend/
 ├── src/
 │   ├── index.ts               # Hono app: CORS, error handler, auth middleware, routing
 │   ├── middleware/auth.ts     # requireAuth (cookie/bearer), requireRoles, HttpError
-│   ├── routes/                # auth, users, wakif, transactions, assets, accounting, reports, dashboard, audit-logs
-│   ├── services/ (digabung di routes — repos terpisah)
+│   ├── routes/                # auth, users, wakif, transactions, assets, accounting, reports, dashboard, audit-logs, settings
 │   ├── repositories/          # thin D1 wrappers: users, wakif, transactions, accounts, categories, journals, assets, audit
 │   ├── accounting/            # engine (jurnal, validasi balance, ledger, trial balance), posting (atomic batch + idempotent + reverse), queries
 │   ├── validators/            # zod schemas semua input
@@ -39,30 +38,30 @@ npx wrangler d1 migrations apply DB --local
 npx tsx scripts/seed.ts > db/seed.sql
 npx wrangler d1 execute DB --local --file=db/seed.sql
 
-# 4. Jalankan dev server (port 8787)
-npx wrangler dev --port 8787
+# 4. Jalankan dev server (port 8788)
+npx wrangler dev --port 8788
 ```
 
-Frontend Vite dev berjalan di `http://localhost:5173` (CORS allow-origin via `CORS_ORIGIN` var).
+Frontend Vite dev berjalan di `http://localhost:5174` (CORS allow-origin via `CORS_ORIGIN` var).
 
 ## Akun Seed (password: `Password123!`)
 
 | Email | Role |
 |---|---|
-| admin@bwi-kudus.id | admin |
-| bendahara@bwi-kudus.id | bendahara |
-| pengelola.aset@bwi-kudus.id | pengelola_aset |
-| pemeriksa@bwi-kudus.id | pemeriksa |
-| pimpinan@bwi-kudus.id | pimpinan |
+| admin@nu-kudus.id | admin |
+| bendahara@nu-kudus.id | bendahara |
+| pengelola.aset@nu-kudus.id | pengelola_aset |
+| pemeriksa@nu-kudus.id | pemeriksa |
+| pimpinan@nu-kudus.id | pimpinan |
 
 ## Alur Verifikasi (contoh)
 
 ```bash
-BASE=http://localhost:8787/api/v1
+BASE=http://localhost:8788/api/v1
 
 # login (set cookie `session` HttpOnly)
 curl -c c.txt -X POST $BASE/auth/login -H 'Content-Type: application/json' \
-  -d '{"email":"bendahara@bwi-kudus.id","password":"Password123!"}'
+  -d '{"email":"bendahara@nu-kudus.id","password":"Password123!"}'
 
 # buat penerimaan
 curl -b c.txt -X POST $BASE/transactions -H 'Content-Type: application/json' \
@@ -96,12 +95,12 @@ curl -b p.txt "$BASE/reports/financial-position?date=2026-11-08"
 
 Auth: `POST /auth/login`, `GET /auth/me`, `POST /auth/logout`, `POST /auth/change-password`
 Transaksi: `GET|POST /transactions`, `GET|PUT /transactions/:id`, `POST /transactions/:id/submit|approve|reject|post|reverse`
-Wakif: `GET|POST|PUT /wakif`, `GET /wakif/:id/transactions`
-Aset: `GET|POST /assets`, `GET|PUT /assets/:id`, `GET /assets/:id/history`, `POST|GET /assets/:id/documents`, `GET /assets/:id/documents/:docId/file`
-Akuntansi: `GET|POST /accounts`, `GET|POST /transaction-categories`, `GET /journals`, `GET /journals/:id`, `POST /journals/:id/post`, `GET /ledger`, `GET /trial-balance`
-Laporan: `/reports/financial-position`, `/reports/waqf-assets`, `/reports/activities`, `/reports/cash-flow`, `/reports/notes`
+Wakif: `GET|POST /wakif`, `GET|PUT /wakif/:id`, `GET /wakif/:id/transactions`
+Aset: `GET|POST /assets`, `GET|PUT /assets/:id`, `GET /assets/:id/history`, `POST|GET /assets/:id/documents`, `GET /assets/:id/documents/:docId/file`, `DELETE /assets/:id/documents/:docId`
+Akuntansi: `GET|POST /accounts`, `PUT /accounts/:id`, `GET|POST /transaction-categories`, `GET|PUT /transaction-categories/:id`, `GET /journals`, `GET /journals/:id`, `POST /journals/:id/post`, `GET /ledger`, `GET /trial-balance`
+Laporan: `/reports/financial-position`, `/reports/waqf-assets`, `/reports/activities`, `/reports/cash-flow`, `/reports/worksheet`, `/reports/managed-assets`, `/reports/notes`
 Dashboard: `/dashboard/summary`, `/dashboard/transactions`, `/dashboard/cash-flow`, `/dashboard/assets`
-Lainnya: `GET /audit-logs`, `GET|POST|PUT /users` + `PATCH /users/:id/status` (admin), `GET /health`
+Lainnya: `GET /audit-logs`, `GET /settings/org`, `GET|POST /users`, `GET|PUT /users/:id` + `PATCH /users/:id/status` (admin), `GET /health`
 
 ## Tests
 

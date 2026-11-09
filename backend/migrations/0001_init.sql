@@ -1,4 +1,4 @@
--- SIKW-BWI Kudus — initial schema (PRD §5)
+-- SMAT NU Kudus — initial schema (PRD §5)
 -- All money values stored as INTEGER rupiah. Dates as TEXT 'YYYY-MM-DD'.
 
 PRAGMA foreign_keys = ON;
