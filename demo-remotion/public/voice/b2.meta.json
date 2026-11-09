@@ -1,0 +1,208 @@
+{
+  "Metadata": [
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 977080,
+        "Duration": 7272910,
+        "text": {
+          "Text": "Administrator",
+          "Length": 13,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 8250000,
+        "Duration": 4318330,
+        "text": {
+          "Text": "memposting",
+          "Length": 10,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 12568330,
+        "Duration": 5000000,
+        "text": {
+          "Text": "transaksi",
+          "Length": 9,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 17568330,
+        "Duration": 2727080,
+        "text": {
+          "Text": "tadi",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 20295410,
+        "Duration": 795410,
+        "text": {
+          "Text": "ke",
+          "Length": 2,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 21090830,
+        "Duration": 5681660,
+        "text": {
+          "Text": "jurnal",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 34431660,
+        "Duration": 2613750,
+        "text": {
+          "Text": "Satu",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 37045410,
+        "Duration": 2045410,
+        "text": {
+          "Text": "klik",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 39090830,
+        "Duration": 2500000,
+        "text": {
+          "Text": "membuat",
+          "Length": 7,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 41590830,
+        "Duration": 3181660,
+        "text": {
+          "Text": "jurnal",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 44772910,
+        "Duration": 2840830,
+        "text": {
+          "Text": "ganda",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 47613750,
+        "Duration": 1363330,
+        "text": {
+          "Text": "yang",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 48977080,
+        "Duration": 5568330,
+        "text": {
+          "Text": "seimbang",
+          "Length": 8,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 57045410,
+        "Duration": 6818330,
+        "text": {
+          "Text": "idempoten",
+          "Length": 9,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 66363750,
+        "Duration": 2272500,
+        "text": {
+          "Text": "dan",
+          "Length": 3,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 68636250,
+        "Duration": 3750000,
+        "text": {
+          "Text": "bernomor",
+          "Length": 8,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 72386250,
+        "Duration": 6590830,
+        "text": {
+          "Text": "berurutan",
+          "Length": 9,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    }
+  ]
+}

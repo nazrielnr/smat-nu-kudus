@@ -1,0 +1,160 @@
+{
+  "Metadata": [
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 1068330,
+        "Duration": 1250000,
+        "text": {
+          "Text": "Di",
+          "Length": 2,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 2318330,
+        "Duration": 6136250,
+        "text": {
+          "Text": "bawahnya",
+          "Length": 8,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 11295410,
+        "Duration": 4886250,
+        "text": {
+          "Text": "aktivitas",
+          "Length": 9,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 16181660,
+        "Duration": 3068330,
+        "text": {
+          "Text": "terbaru",
+          "Length": 7,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 19250000,
+        "Duration": 2840830,
+        "text": {
+          "Text": "lengkap",
+          "Length": 7,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 22090830,
+        "Duration": 1704580,
+        "text": {
+          "Text": "dengan",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 23795410,
+        "Duration": 5113750,
+        "text": {
+          "Text": "status",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 31409160,
+        "Duration": 2045410,
+        "text": {
+          "Text": "dan",
+          "Length": 3,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 33454580,
+        "Duration": 2159160,
+        "text": {
+          "Text": "aksi",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 35613750,
+        "Duration": 2840830,
+        "text": {
+          "Text": "cepat",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 38454580,
+        "Duration": 795410,
+        "text": {
+          "Text": "di",
+          "Length": 2,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 39250000,
+        "Duration": 2272910,
+        "text": {
+          "Text": "kanan",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 41522910,
+        "Duration": 5000000,
+        "text": {
+          "Text": "atas",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    }
+  ]
+}

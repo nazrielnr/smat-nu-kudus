@@ -1,0 +1,148 @@
+{
+  "Metadata": [
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 1068330,
+        "Duration": 3295410,
+        "text": {
+          "Text": "Saldo",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 4363750,
+        "Duration": 2272500,
+        "text": {
+          "Text": "Akun",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 6636250,
+        "Duration": 4431660,
+        "text": {
+          "Text": "memastikan",
+          "Length": 10,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 11068330,
+        "Duration": 2613330,
+        "text": {
+          "Text": "neraca",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 13681660,
+        "Duration": 2500000,
+        "text": {
+          "Text": "saldo",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 16181660,
+        "Duration": 5568330,
+        "text": {
+          "Text": "seimbang",
+          "Length": 8,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 24477080,
+        "Duration": 2045410,
+        "text": {
+          "Text": "dan",
+          "Length": 3,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 26522910,
+        "Duration": 2272500,
+        "text": {
+          "Text": "Lembar",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 28795410,
+        "Duration": 3068330,
+        "text": {
+          "Text": "Kerja",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 31863750,
+        "Duration": 3750000,
+        "text": {
+          "Text": "merangkum",
+          "Length": 9,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 35613750,
+        "Duration": 2500000,
+        "text": {
+          "Text": "semua",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 38113750,
+        "Duration": 4431660,
+        "text": {
+          "Text": "akun",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    }
+  ]
+}

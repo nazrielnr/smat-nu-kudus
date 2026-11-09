@@ -1,0 +1,112 @@
+{
+  "Metadata": [
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 988750,
+        "Duration": 3636250,
+        "text": {
+          "Text": "Halaman",
+          "Length": 7,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 4625000,
+        "Duration": 2727080,
+        "text": {
+          "Text": "detail",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 7352080,
+        "Duration": 4545410,
+        "text": {
+          "Text": "menampilkan",
+          "Length": 11,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 11897910,
+        "Duration": 3750000,
+        "text": {
+          "Text": "profil",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 15647910,
+        "Duration": 1590830,
+        "text": {
+          "Text": "dan",
+          "Length": 3,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 17238750,
+        "Duration": 3522500,
+        "text": {
+          "Text": "riwayat",
+          "Length": 7,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 20761250,
+        "Duration": 2840830,
+        "text": {
+          "Text": "wakaf",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 23602080,
+        "Duration": 1818330,
+        "text": {
+          "Text": "sang",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 25420410,
+        "Duration": 5227080,
+        "text": {
+          "Text": "wakif",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    }
+  ]
+}

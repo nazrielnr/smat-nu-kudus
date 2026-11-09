@@ -1,0 +1,208 @@
+{
+  "Metadata": [
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 1068330,
+        "Duration": 2500000,
+        "text": {
+          "Text": "Dana",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 3568330,
+        "Duration": 2386250,
+        "text": {
+          "Text": "Keluar",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 5954580,
+        "Duration": 5568330,
+        "text": {
+          "Text": "serupa",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 13795410,
+        "Duration": 2272910,
+        "text": {
+          "Text": "untuk",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 16068330,
+        "Duration": 3522500,
+        "text": {
+          "Text": "penyaluran",
+          "Length": 10,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 19590830,
+        "Duration": 5568330,
+        "text": {
+          "Text": "manfaat",
+          "Length": 7,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 27318330,
+        "Duration": 3067910,
+        "text": {
+          "Text": "biaya",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 30386250,
+        "Duration": 7045410,
+        "text": {
+          "Text": "operasional",
+          "Length": 11,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 39590830,
+        "Duration": 2386250,
+        "text": {
+          "Text": "atau",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 41977080,
+        "Duration": 2954580,
+        "text": {
+          "Text": "imbalan",
+          "Length": 7,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 44931660,
+        "Duration": 5000000,
+        "text": {
+          "Text": "nazhir",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 51863750,
+        "Duration": 2500000,
+        "text": {
+          "Text": "dengan",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 54363750,
+        "Duration": 3295410,
+        "text": {
+          "Text": "tambahan",
+          "Length": 8,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 57659160,
+        "Duration": 4090830,
+        "text": {
+          "Text": "penerima",
+          "Length": 8,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 61750000,
+        "Duration": 1818330,
+        "text": {
+          "Text": "dan",
+          "Length": 3,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 63568330,
+        "Duration": 2386250,
+        "text": {
+          "Text": "sumber",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 65954580,
+        "Duration": 4431660,
+        "text": {
+          "Text": "dana",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    }
+  ]
+}

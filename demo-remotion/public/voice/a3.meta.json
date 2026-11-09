@@ -1,0 +1,220 @@
+{
+  "Metadata": [
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 1068330,
+        "Duration": 3408750,
+        "text": {
+          "Text": "Detail",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 4477080,
+        "Duration": 5113750,
+        "text": {
+          "Text": "transaksi",
+          "Length": 9,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 9590830,
+        "Duration": 2386250,
+        "text": {
+          "Text": "punya",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 11977080,
+        "Duration": 2500000,
+        "text": {
+          "Text": "garis",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 14477080,
+        "Duration": 2045410,
+        "text": {
+          "Text": "waktu",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 16522910,
+        "Duration": 5454580,
+        "text": {
+          "Text": "status",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 24363750,
+        "Duration": 2045410,
+        "text": {
+          "Text": "dari",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 26409160,
+        "Duration": 4204580,
+        "text": {
+          "Text": "draf",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 32659160,
+        "Duration": 6022910,
+        "text": {
+          "Text": "menunggu",
+          "Length": 8,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 41068330,
+        "Duration": 7840830,
+        "text": {
+          "Text": "disetujui",
+          "Length": 9,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 50727080,
+        "Duration": 3522910,
+        "text": {
+          "Text": "sampai",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 54250000,
+        "Duration": 6250000,
+        "text": {
+          "Text": "diposting",
+          "Length": 9,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 68090830,
+        "Duration": 3409160,
+        "text": {
+          "Text": "Posting",
+          "Length": 7,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 71500000,
+        "Duration": 4090830,
+        "text": {
+          "Text": "dilakukan",
+          "Length": 9,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 75590830,
+        "Duration": 1590830,
+        "text": {
+          "Text": "oleh",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 77181660,
+        "Duration": 4659160,
+        "text": {
+          "Text": "Bendahara",
+          "Length": 9,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 81840830,
+        "Duration": 2840830,
+        "text": {
+          "Text": "atau",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 84681660,
+        "Duration": 9318330,
+        "text": {
+          "Text": "Administrator",
+          "Length": 13,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    }
+  ]
+}

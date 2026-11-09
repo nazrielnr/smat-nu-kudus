@@ -1,0 +1,184 @@
+{
+  "Metadata": [
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 1068330,
+        "Duration": 3067910,
+        "text": {
+          "Text": "Pengelola",
+          "Length": 9,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 4136250,
+        "Duration": 2386250,
+        "text": {
+          "Text": "Aset",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 6522910,
+        "Duration": 3067910,
+        "text": {
+          "Text": "fokus",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 9590830,
+        "Duration": 1704580,
+        "text": {
+          "Text": "pada",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 11295410,
+        "Duration": 1818330,
+        "text": {
+          "Text": "Data",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 13113750,
+        "Duration": 3636250,
+        "text": {
+          "Text": "Aset",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 19136250,
+        "Duration": 2500000,
+        "text": {
+          "Text": "dengan",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 21636250,
+        "Duration": 2500000,
+        "text": {
+          "Text": "filter",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 24136250,
+        "Duration": 3409160,
+        "text": {
+          "Text": "jenis",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 27545410,
+        "Duration": 1477080,
+        "text": {
+          "Text": "dan",
+          "Length": 3,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 29022910,
+        "Duration": 3522500,
+        "text": {
+          "Text": "status",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 32545410,
+        "Duration": 2386250,
+        "text": {
+          "Text": "serta",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 34931660,
+        "Duration": 2613750,
+        "text": {
+          "Text": "nilai",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 37545410,
+        "Duration": 2159160,
+        "text": {
+          "Text": "tiap",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 39704580,
+        "Duration": 3750000,
+        "text": {
+          "Text": "aset",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    }
+  ]
+}

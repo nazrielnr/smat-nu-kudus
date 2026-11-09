@@ -1,0 +1,24 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "smat-nu-kudus-backend",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-11-08",
+  "compatibility_flags": ["nodejs_compat"],
+  "vars": {
+    "CORS_ORIGIN": "http://localhost:5174"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "smat-nu-kudus",
+      "database_id": "dcac1d2f-dcc3-4140-9c5e-6b56fe3ce106",
+      "migrations_dir": "migrations"
+    }
+  ],
+  "r2_buckets": [
+    {
+      "binding": "BUCKET",
+      "bucket_name": "smat-nu-kudus-docs"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "Metadata": [
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 1068330,
+        "Duration": 2613330,
+        "text": {
+          "Text": "Terakhir",
+          "Length": 8,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 3681660,
+        "Duration": 4090830,
+        "text": {
+          "Text": "Pengaturan",
+          "Length": 10,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 7772910,
+        "Duration": 1704160,
+        "text": {
+          "Text": "untuk",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 9477080,
+        "Duration": 2500000,
+        "text": {
+          "Text": "ganti",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 11977080,
+        "Duration": 1818330,
+        "text": {
+          "Text": "kata",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 13795410,
+        "Duration": 4886250,
+        "text": {
+          "Text": "sandi",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 21295410,
+        "Duration": 2159160,
+        "text": {
+          "Text": "dan",
+          "Length": 3,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 23454580,
+        "Duration": 1363750,
+        "text": {
+          "Text": "dari",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 24818330,
+        "Duration": 1363330,
+        "text": {
+          "Text": "menu",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 26181660,
+        "Duration": 4318330,
+        "text": {
+          "Text": "akun",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 33227080,
+        "Duration": 3636250,
+        "text": {
+          "Text": "tampilan",
+          "Length": 8,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 36863750,
+        "Duration": 1817910,
+        "text": {
+          "Text": "bisa",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 38681660,
+        "Duration": 4090830,
+        "text": {
+          "Text": "diganti",
+          "Length": 7,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 42772910,
+        "Duration": 795410,
+        "text": {
+          "Text": "ke",
+          "Length": 2,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 43568330,
+        "Duration": 2045410,
+        "text": {
+          "Text": "mode",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 45613750,
+        "Duration": 4090830,
+        "text": {
+          "Text": "gelap",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    }
+  ]
+}

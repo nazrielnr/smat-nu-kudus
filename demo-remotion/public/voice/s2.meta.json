@@ -1,0 +1,160 @@
+{
+  "Metadata": [
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 1068330,
+        "Duration": 3408750,
+        "text": {
+          "Text": "Detail",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 4477080,
+        "Duration": 2613750,
+        "text": {
+          "Text": "aset",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 7090830,
+        "Duration": 2613750,
+        "text": {
+          "Text": "memuat",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 9704580,
+        "Duration": 7045410,
+        "text": {
+          "Text": "sertifikat",
+          "Length": 10,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 19136250,
+        "Duration": 5227080,
+        "text": {
+          "Text": "luas",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 26409160,
+        "Duration": 6477080,
+        "text": {
+          "Text": "lokasi",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 35500000,
+        "Duration": 2045410,
+        "text": {
+          "Text": "tab",
+          "Length": 3,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 37545410,
+        "Duration": 2954580,
+        "text": {
+          "Text": "dokumen",
+          "Length": 7,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 40500000,
+        "Duration": 5340830,
+        "text": {
+          "Text": "unggahan",
+          "Length": 8,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 48340830,
+        "Duration": 2386250,
+        "text": {
+          "Text": "dan",
+          "Length": 3,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 50727080,
+        "Duration": 1704580,
+        "text": {
+          "Text": "tab",
+          "Length": 3,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 52431660,
+        "Duration": 3409160,
+        "text": {
+          "Text": "riwayat",
+          "Length": 7,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 55840830,
+        "Duration": 6136250,
+        "text": {
+          "Text": "perubahan",
+          "Length": 9,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    }
+  ]
+}

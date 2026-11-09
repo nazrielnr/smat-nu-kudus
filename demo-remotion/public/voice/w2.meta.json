@@ -1,0 +1,112 @@
+{
+  "Metadata": [
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 977080,
+        "Duration": 2613750,
+        "text": {
+          "Text": "Kita",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 3590830,
+        "Duration": 2840830,
+        "text": {
+          "Text": "tambah",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 6431660,
+        "Duration": 3181660,
+        "text": {
+          "Text": "wakif",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 9613750,
+        "Duration": 4545410,
+        "text": {
+          "Text": "baru",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 21727080,
+        "Duration": 3181660,
+        "text": {
+          "Text": "Semua",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 24909160,
+        "Duration": 3181660,
+        "text": {
+          "Text": "isian",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 28090830,
+        "Duration": 5909160,
+        "text": {
+          "Text": "divalidasi",
+          "Length": 10,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 34000000,
+        "Duration": 3522910,
+        "text": {
+          "Text": "sebelum",
+          "Length": 7,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 37522910,
+        "Duration": 6250000,
+        "text": {
+          "Text": "disimpan",
+          "Length": 8,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "Metadata": [
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 977080,
+        "Duration": 2500000,
+        "text": {
+          "Text": "Buku",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 3477080,
+        "Duration": 2954580,
+        "text": {
+          "Text": "Besar",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 6431660,
+        "Duration": 4431660,
+        "text": {
+          "Text": "menampilkan",
+          "Length": 11,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 10863750,
+        "Duration": 3863330,
+        "text": {
+          "Text": "mutasi",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 14727080,
+        "Duration": 1136250,
+        "text": {
+          "Text": "per",
+          "Length": 3,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 15863750,
+        "Duration": 3067910,
+        "text": {
+          "Text": "akun",
+          "Length": 4,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 18931660,
+        "Duration": 2045410,
+        "text": {
+          "Text": "dengan",
+          "Length": 6,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 20977080,
+        "Duration": 2954580,
+        "text": {
+          "Text": "saldo",
+          "Length": 5,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    },
+    {
+      "Type": "WordBoundary",
+      "Data": {
+        "Offset": 23931660,
+        "Duration": 6477080,
+        "text": {
+          "Text": "berjalan",
+          "Length": 8,
+          "BoundaryType": "WordBoundary"
+        }
+      }
+    }
+  ]
+}

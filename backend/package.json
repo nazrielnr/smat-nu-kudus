@@ -1,0 +1,28 @@
+{
+  "name": "smat-nu-kudus-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sistem Monitoring Aset Wakaf dan Tanah NU Kabupaten Kudus - Backend API (Hono + Cloudflare Workers + D1 + R2)",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "wrangler dev --port 8788",
+    "deploy": "wrangler deploy",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "db:migrate": "wrangler d1 migrations apply DB --local",
+    "db:seed": "tsx scripts/seed.ts > db/seed.sql && wrangler d1 execute DB --local --file=db/seed.sql"
+  },
+  "dependencies": {
+    "hono": "^4.13.17",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20261108.1",
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.1.0",
+    "wrangler": "^4.158.0"
+  }
+}

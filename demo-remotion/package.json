@@ -1,0 +1,23 @@
+{
+  "name": "smat-demo-remotion",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render src/index.ts Demo out/demo.mp4 --codec=h264 --crf=18"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.541",
+    "@remotion/google-fonts": "^4.0.541",
+    "@remotion/media": "^4.0.541",
+    "@remotion/transitions": "^4.0.541",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "msedge-tts": "^2.1.1",
+    "playwright": "^1.65.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "^4.0.541",
+    "typescript": "^7.0.2"
+  }
+}
